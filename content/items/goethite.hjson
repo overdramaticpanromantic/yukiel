@@ -3,6 +3,7 @@ description: Raw carbon trapped in rock. Must be refined before usage.
 color: 434343
 lowPriority: true
 buildable: false
+flammability: 0.4
 hardness: 1
 alwaysUnlocked: true
 hiddenOnPlanets: [serpulo, erekir]
