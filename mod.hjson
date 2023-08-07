@@ -1,0 +1,21 @@
+{
+    displayName : "Yukiel"
+    repo : overdramaticpanromantic/yukiel
+    name : yukiel
+
+    author:
+        '''
+        Developers:
+        - Code: overdramaticpanromantic & Fresh791
+        - Sprites: overdramaticpanromantic & Fresh791
+        '''
+
+    description:
+        '''
+        Mindustry's equivalent of Factorio's Krastorio 2. Open to community edits - DM me on Discord at overdramaticpanromantic, or use a GitHub issue.
+        '''
+
+    subtitle: "In active development - with your help!"
+    minGameVersion : 145.1
+    version : "1.0"
+}
