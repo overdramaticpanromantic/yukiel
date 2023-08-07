@@ -1,0 +1,6 @@
+name: Ferrihydrite
+description: Brittle. Used in basic infrastructure.
+cost: 0.7
+color: ffb682
+hardness: 1
+hiddenOnPlanets: [serpulo, erekir]
