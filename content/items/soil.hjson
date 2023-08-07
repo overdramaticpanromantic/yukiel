@@ -1,0 +1,8 @@
+name: Soil
+description: Collection of raw minerals and biomass. Used in filtration and biomass synthesis.
+color: 9b6945
+lowPriority: true
+buildable: false
+hardness: 1
+alwaysUnlocked: true
+hiddenOnPlanets: [serpulo, erekir]
