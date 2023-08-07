@@ -1,0 +1,8 @@
+name: Goethite
+description: Raw carbon trapped in rock. Must be refined before usage.
+color: 434343
+lowPriority: true
+buildable: false
+hardness: 1
+alwaysUnlocked: true
+hiddenOnPlanets: [serpulo, erekir]
