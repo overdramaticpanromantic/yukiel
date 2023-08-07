@@ -1,0 +1,8 @@
+name: Refined Carbon
+description: Smooth and jet black. Used in hyperthermic processes and refinement.
+color: 232323
+buildable: false
+lowPriority: true
+flammability: 0.6
+hardness: 1
+hiddenOnPlanets: [serpulo, erekir]
