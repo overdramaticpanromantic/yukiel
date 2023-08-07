@@ -1,6 +1,6 @@
 name: Lepidocrocite
 description: Colorful, brittle crystals.. Used in basic infrastructure and thermal isolation.
 cost: 0.6
-color: c66977
+color: a04f5f
 hardness: 1
 hiddenOnPlanets: [serpulo, erekir]
