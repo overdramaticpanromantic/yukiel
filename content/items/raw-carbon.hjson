@@ -1,6 +1,6 @@
 name: Raw Carbon
 description: Chalky and dark. Used in hyperthermic processes and refinement.
-color: a04f5f
+color: 434343
 buildable: false
 lowPriority: true
 flammability: 0.8
