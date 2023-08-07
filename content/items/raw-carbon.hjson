@@ -3,5 +3,6 @@ description: Chalky and dark. Used in hyperthermic processes and refinement.
 color: a04f5f
 buildable: false
 lowPriority: true
+flammability: 0.8
 hardness: 1
 hiddenOnPlanets: [serpulo, erekir]
