@@ -9,13 +9,13 @@ requirements: [
   item-ferrihydrite/20
 ]
 
-outputItems: [
-  item-ferrihydrite/2
+outputItem: [
+  ferrihydrite/2
 ]
 craftTime: 120
 consumes: {
   items: [
-    item-goethite/1
+    goethite/1
   ]
   liquid: {
     liquid: water
