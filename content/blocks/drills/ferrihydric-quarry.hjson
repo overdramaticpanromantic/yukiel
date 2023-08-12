@@ -4,7 +4,6 @@ size: 2
 description: Extracts Ferrihydrite from the ground. Requires Goethite as input.
 category: production
 squareSprite: false
-liquidBoostIntensity: 2
 requirements: [
   ferrihydrite/20
 ]
@@ -19,7 +18,7 @@ consumes: {
 
 craftEffect: {
   type: RadialEffect
-  rotationOffset: 225
+  rotationOffset: 180
   amount: 1
   lengthOffset: 3.818
   effect: {
