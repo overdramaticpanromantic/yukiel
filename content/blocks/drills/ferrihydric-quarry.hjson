@@ -36,5 +36,11 @@ drawer: {
       spinSprite: true
       rotateSpeed: 1.2
     }
+    {
+      type: DrawFrames
+      frames: 6
+      interval: 6
+      sine: false
+    }
   ]
 }
