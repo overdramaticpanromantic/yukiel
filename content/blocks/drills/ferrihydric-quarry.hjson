@@ -37,8 +37,8 @@ drawer: {
     {
       type: DrawRegion
       suffix: -gear
-      x: 2
-      y: -2
+      x: 2.5
+      y: -2.5
       spinSprite: true
       rotateSpeed: 1.2
     }
