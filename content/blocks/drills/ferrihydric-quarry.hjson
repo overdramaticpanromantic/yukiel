@@ -9,7 +9,6 @@ requirements: [
 
 outputItems: [
   item-ferrihydrite/2
-  item-stone/1
 ]
 craftTime: 120
 consumes: {
