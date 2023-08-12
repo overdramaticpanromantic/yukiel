@@ -1,1 +1,19 @@
+name: Ferrihydric Quarry
+type: GenericCrafter
+description: Extracts Ferrihydrite from the ground. Requires Goethite as input.
+category: production
+squareSprite: false
+requirements: [
+  item-ferrihydrite/20
+]
 
+outputItems: [
+  item-ferrihydrite/2
+  item-stone/1
+]
+craftTime: 120
+consumes: {
+  items: [
+    item-goethite/1
+  ]
+}
