@@ -6,7 +6,7 @@ category: production
 squareSprite: false
 liquidBoostIntensity: 2
 requirements: [
-  item-ferrihydrite/20
+  ferrihydrite/20
 ]
 
 outputItem: [
