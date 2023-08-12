@@ -16,6 +16,22 @@ consumes: {
     goethite/1
   ]
 }
+craftEffect: {
+  type: ParticleEffect
+  particles: 6
+  cone: 360
+  followParent: true
+  rotWithParent: false
+  sizeFrom: 1.2
+  sizeTo: 0.1
+  colorFrom: ffffff
+  colorTo: cc8c5e
+  lifetime: 60
+  length: 3
+  baseLength: 5
+  interp: pow2
+  sizeInterp: pow3In
+}
 
 drawer: {
   type: DrawMulti
