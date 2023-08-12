@@ -9,9 +9,7 @@ requirements: [
   ferrihydrite/20
 ]
 
-outputItem: [
-  ferrihydrite/2
-]
+outputItem: ferrihydrite/2
 craftTime: 120
 consumes: {
   items: [
