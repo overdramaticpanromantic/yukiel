@@ -18,9 +18,9 @@ consumes: {
 
 craftEffect: {
   type: RadialEffect
-  rotationOffset: 45
+  rotationOffset: 135
   amount: 1
-  lengthOffset: 3.818
+  lengthOffset: 4
   effect: {
     type: ParticleEffect
     particles: 6
